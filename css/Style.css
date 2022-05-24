@@ -1,0 +1,18 @@
+.botones .btn1{
+    margin-top: 10px; 
+}
+.divProductos{
+    margin-bottom: 20px;
+}
+.navbar.navbar-expand-lg.bg-light{
+padding: 0%;
+}
+.container-fluid{
+    background-color: #AD1D24;
+}
+a.navbar-brand{
+    color: rgb(255, 255, 255);
+}
+h3{
+    padding-top: 10px;
+}
